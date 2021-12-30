@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Dennis's Tennis Lessons"
-resume_title:                   "Professional Tennis Instructor with over 15 years of playing experience"
+resume_title:                   "Professional Tennis Instructor"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "dennis.afa@gmail.com"
@@ -27,6 +27,7 @@ resume_header_intro: "<p>My name is Dennis Afanasev and I've been playing tennis
 the Junior Tennis Champions Center (JTCC) as well as IMG Academy. I won numerous USTA junior tournaments, having been ranked as high as top 30 nationally for 
 boys 14 and under and top 50 nationally for boys 16 and under. In addition, I achieved an International Tennis Federation (ITF) ranking and played numerous professional
 tournaments. I played division 1 tennis at the George Washington University, and graduated with a degree in Computer Science. I now work as a Computer Engineer at NASA.
+I'm available for private lessons in the Miami Brickell area. If you're interested, please contact me at (757)-746-7830 or email using the Contact Me button below.
 </p>"
 
 # use "yes" to display the email contact button,
